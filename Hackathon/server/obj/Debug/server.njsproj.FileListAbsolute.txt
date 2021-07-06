@@ -1,0 +1,3 @@
+D:\Projects\Hackathon\Hackathon\server\obj\Debug\server.njsproj.AssemblyReference.cache
+D:\Projects\Hackathon\Hackathon\server\obj\Debug\server.njsproj.CoreCompileInputs.cache
+D:\Projects\Hackathon\Hackathon\server\bin\Microsoft.NodejsTools.WebRole.dll
